@@ -41,4 +41,4 @@ module.exports = {
       '__DEVTOOLS__': !__DEV__
     })
   ]
-}
+};
